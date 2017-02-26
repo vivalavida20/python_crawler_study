@@ -1,6 +1,6 @@
 # git/github 입문
 
-<img src="https://octodex.github.com/images/baracktocat.jpg">
+<img src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 
 ## git/github 따라하기
